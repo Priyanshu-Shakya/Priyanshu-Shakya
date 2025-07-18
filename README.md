@@ -2,7 +2,7 @@
 > ✨ **"Your determination decides your destination."**
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Priyanshu-Shakya/Priyanshu-Shakya/main/banner.png" alt="Priyanshu Shakya Banner" />
+  <img src="https://raw.githubusercontent.com/Priyanshu-Shakya/Priyanshu-Shakya/main/carousel.gif" alt="Project Carousel" />
 </p>
 
 # 👋 Hi, I'm Priyanshu Shakya
